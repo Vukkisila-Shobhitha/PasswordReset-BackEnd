@@ -183,14 +183,14 @@ const userController = {
       const transporter = nodemailer.createTransport({
         service: "gmail",
         auth: {
-          user: "shobitha6294@gmail.com",
-          pass: "shobi5294",
+          user: "shobiv96@gmail.com",
+          pass: "Sh@870va",
         },
       });
 
       // create message
       const message = {
-        from: "shobitha6294@gmail.com",
+        from: "shobiv96@gmail.com",
         to: user.email,
         subject: "Password Reset",
         text: `Your password reset code is ${randomString}`,
