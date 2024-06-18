@@ -26,7 +26,7 @@ const userController = {
       await client.connect();
 
       // get the database
-      const DB = client.db("Guvi_Task1");
+      const DB = client.db("Guvi_Task");
 
       // get the collection
       const collection = DB.collection("users");
@@ -56,7 +56,7 @@ const userController = {
       await client.connect();
 
       // get the database
-      const DB = client.db("Guvi_Task1");
+      const DB = client.db("Guvi_Task");
 
       // get the collection
       const collection = DB.collection("users");
@@ -99,7 +99,7 @@ const userController = {
       await client.connect();
 
       // get the database
-      const DB = client.db("Guvi_Task1");
+      const DB = client.db("Guvi_Task");
 
       // get the collection
       const collection = DB.collection("users");
@@ -160,7 +160,7 @@ const userController = {
       await client.connect();
 
       // get the database
-      const DB = client.db("Guvi_Task1");
+      const DB = client.db("Guvi_Task");
 
       // get the collection
       const collection = DB.collection("users");
@@ -234,7 +234,7 @@ const userController = {
       await client.connect();
 
       // get the database
-      const DB = client.db("Guvi_Task1");
+      const DB = client.db("Guvi_Task");
 
       // get the collection
       const collection = DB.collection("users");
