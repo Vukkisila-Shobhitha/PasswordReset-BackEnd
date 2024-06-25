@@ -184,7 +184,7 @@ const userController = {
         service: "gmail",
         auth: {
           user: "shobiv96@gmail.com",
-          pass: "Sh@870va",
+          pass: "hnuq yzol fsyf juli",
         },
       });
 
